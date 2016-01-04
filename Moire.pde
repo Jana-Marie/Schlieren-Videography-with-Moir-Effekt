@@ -45,7 +45,7 @@ void draw() {
     opencv.diff(after); //Differenz berechnen
 
 
-    opencv.brightness(-7);    //Hellikkeit/Kontrast verbessern
+    opencv.brightness(-9);    //Hellikkeit/Kontrast verbessern
     opencv.contrast(6);
 
     if (erode==true) {    //Erode methode
