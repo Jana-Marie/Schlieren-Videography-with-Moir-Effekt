@@ -1,2 +1,2 @@
 # Schlieren-Videography-with-Moir-Effekt
-Used to Film Schlieren
+Used to capture schlieren
